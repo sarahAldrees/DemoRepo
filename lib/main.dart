@@ -16,7 +16,7 @@ class Demo_app extends StatelessWidget {
           ),
         ),
         body: Text(
-          'Hello this is a dummy app',
+          'Hello everyone',
           style: TextStyle(fontSize: 30),
         ),
       ),
